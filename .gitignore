@@ -57,6 +57,7 @@ local_settings.py
 db.sqlite3
 settings.py
 *.cnf
+migrations
 
 # Flask stuff:
 instance/
